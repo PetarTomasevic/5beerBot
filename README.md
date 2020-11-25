@@ -17,7 +17,24 @@ You will need token and your published application (https only works!) URL.
 Add it into appsettings.json
 ![jsonsettings](https://user-images.githubusercontent.com/13236644/100237246-f4620e00-2f2e-11eb-8887-7a8e19d838c9.png)
 
-deploy api to your web and execute over swagger set-web-hook method
-Your BOT should be ok and running after that.
+deploy api to your public server and Defined URL and execute over swagger set-web-hook method
+Your BOT should be ok and running after that. And you will be able to use bot in Viber.
 
 Happy Coding!
+
+P.S.Why 5beerBot?
+
+Viber
+
+5beer
+
+... sounds similar :D
+
+5 stands for .NET 5, 
+
+beer stands for beer (you can always buy me one :)) 
+and bot, well it is a bot. Viber Bot :)
+
+
+
+
