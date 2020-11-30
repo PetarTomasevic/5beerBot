@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
-using System;
 using Newtonsoft.Json.Converters;
+using System;
 using ViberBot.Enum;
 
 namespace ViberBot.Service

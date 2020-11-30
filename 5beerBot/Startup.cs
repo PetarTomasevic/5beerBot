@@ -41,6 +41,7 @@ namespace The5beerBot
             {
                 options.EnableForHttps = true; options.Providers.Add<BrotliCompressionProvider>();
             });
+            services.AddMemoryCache();
             services.AddMvc(option =>
             {
                 option.EnableEndpointRouting = false;

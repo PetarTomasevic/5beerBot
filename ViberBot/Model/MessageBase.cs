@@ -50,5 +50,11 @@ namespace ViberBot.Model
 
         [JsonIgnore]
         public Boolean IsBroadcasting { get; }
+
+        /// <summary>
+        /// keyboard.
+        /// </summary>
+        [JsonProperty("keyboard")]
+        public Keyboard Keyboard { get; set; }
     }
 }
