@@ -1,5 +1,5 @@
 # 5beerBot
-Viber Bot starter kit build as .NET 5 API
+Viber Bot starter kit build as .NET 5 API (check master branch)
 
 Try it here (It's test version for debugging so it my not work from time to time) 
 
