@@ -1,7 +1,7 @@
 # 5beerBot
 Viber Bot starter kit build as .NET 5 API
 
-
+Try it here (It's test version for debugging so it my not work from time to time) viber://pa?chatURI=biberchat
 Kick Starter for building Viber Bot in .NET 5.
 I needed this for company project, couldn't find any fresh examples so i decided to build this as starting point for buiding Viber Bot with c# and .NET 5.
 It's just initial setup , class library and starting chat example.
